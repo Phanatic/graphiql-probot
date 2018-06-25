@@ -1,7 +1,7 @@
 {
   "env": {
     "NODE_ENV": "production",
-    "APP_ID": "@app-id,
+    "APP_ID": "@app-id",
     "WEBHOOK_SECRET": "@webhook-secret",
     "PRIVATE_KEY": "@private-key"
   }
